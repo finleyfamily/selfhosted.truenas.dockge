@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@itprokyle/cspell-dict": "^1.2.7"
+  },
+  "name": "selfhosted.truenas.dockge",
+  "version": "0.0.0"
+}
